@@ -1,3 +1,6 @@
 [submodule "biac-back-end"]
 	path = biac-back-end
 	url = https://github.com/Sheriefshabaa/biac-back-end.git
+[submodule "biac_ui_system"]
+	path = biac_ui_system
+	url = https://github.com/Sheriefshabaa/biac_ui_system

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/biac-ai-models" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/biac-back-end" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/biac_ui_system" vcs="Git" />
   </component>
 </project>

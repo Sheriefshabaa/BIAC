@@ -1,3 +1,2 @@
 # BIAC
-Graduation project repository
-testing the repo
+- More comprehensive documentation is coming soon!
